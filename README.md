@@ -14,13 +14,13 @@ I am a 4th year student at Selçuk University, Department of Computer Engineerin
 
 ### Skills  
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=google&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white)  
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-![B1 English](https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=google&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![B1 English](https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
