@@ -14,6 +14,8 @@ I am a 4th year student at Selçuk University, Department of Computer Engineerin
 
 ### Skills  
 
+### Skills  
+
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=google&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white)
@@ -22,5 +24,7 @@ I am a 4th year student at Selçuk University, Department of Computer Engineerin
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=dotnet&logoColor=white)
 ![B1 English](https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
