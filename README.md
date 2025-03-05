@@ -8,10 +8,13 @@ I am a 4th year student at Selçuk University, Department of Computer Engineerin
 
 - 📍 I live in Istanbul  
 - 📧 You can reach me at [seyyyma08@gmail.com](mailto:seyyyma08@gmail.com)  
-- 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/%C5%9Feyma-ta%C5%9F-642600272/)  
 - 💼 I am currently working on high-accuracy lung dysfunctional zone detection  
 - 🤝 I am open to collaboration on open source projects  
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[https://linkedin.com/in/ozlem-dilek](https://www.linkedin.com/in/%C5%9Feyma-ta%C5%9F-642600272/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozlem-dilek" height="30" width="40" /></a>
+</p>
 
 ### Skills  
 
