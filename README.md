@@ -4,11 +4,10 @@
 
 **4th year Computer Engineering Student - Selcuk University**
 
-I am a 4th year student at Selçuk University, Department of Computer Engineering. I do projects on deep learning and machine learning. I also have experience in image processing, database programming, and cloud systems.
+I am a 4th-year Computer Engineering student at Selçuk University. I am interested in EF Core, C# backend development, and microservices. I also have experience in deep learning, machine learning, image processing, database programming, and cloud systems.
 
 - 📍 I live in Istanbul  
 - 📧 You can reach me at [seyyyma08@gmail.com](mailto:seyyyma08@gmail.com)  
-- 💼 I am currently working on high-accuracy lung dysfunctional zone detection  
 - 🤝 I am open to collaboration on open source projects  
 
 <h3 align="left">Connect with me:</h3>
