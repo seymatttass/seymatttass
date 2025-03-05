@@ -29,5 +29,6 @@ I am a 4th year student at Selçuk University, Department of Computer Engineerin
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 ![B1 English](https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white)
 
