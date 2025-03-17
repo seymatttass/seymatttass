@@ -1,35 +1,58 @@
-# Şeyma Taş / README.md
+<h1 align="center">Hi 👋, I'm Şeyma Taş</h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=336791&random=false&width=435&lines=Backend+Developer;Computer+Engineering+Student" alt="Typing SVG" /></a>
+</h3>
 
-## Hi 👋 I'm Şeyma Taş
+<h3 align="justify">I am a 4th-year Computer Engineering student at Selçuk University. I am interested in EF Core, C# backend development, and microservices. I also have experience in deep learning, machine learning, image processing, database programming, and cloud systems.</h3>
 
-**4th year Computer Engineering Student - Selcuk University**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I am a 4th-year Computer Engineering student at Selçuk University. I am interested in EF Core, C# backend development, and microservices. I also have experience in deep learning, machine learning, image processing, database programming, and cloud systems.
+<h3 align="justify">I am currently working on high-accuracy lung dysfunctional zone detection and am open to collaboration on open source projects.</h3>
 
-- 📍 I live in Istanbul  
-- 📧 You can reach me at [seyyyma08@gmail.com](mailto:seyyyma08@gmail.com)  
-- 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/%C5%9Feyma-ta%C5%9F-642600272/)  
-- 💼 I am currently working on high-accuracy lung dysfunctional zone detection  
-- 🤝 I am open to collaboration on open source projects   
+<p align="left">
+  <ul>
+    <li>📍 I live in Istanbul</li>
+    <li>📧 You can reach me at <a href="mailto:seyyyma08@gmail.com">seyyyma08@gmail.com</a></li>
+    <li>🔗 <a href="https://www.linkedin.com/in/%C5%9Feyma-ta%C5%9F-642600272/">LinkedIn Profile</a></li>
+    <li>💼 Working on high-accuracy lung dysfunctional zone detection</li>
+    <li>🤝 Open to collaboration on open source projects</li>
+  </ul>
+</p>
+<br>
 
+<h3 align="left">Skills and Technologies:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?&theme=light&i=dotnet,cs,azure,py,mysql,postgres,oracle,docker,redis,rabbitmq,flutter" />
+  </a>
+</p>
 
-### Skills  
+<p align="left">
+<img src="https://img.shields.io/badge/-Machine%20Learning-102230?logo=google&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white" alt="Oracle" />
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=dotnet&logoColor=white" alt="Entity Framework" />
+<img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white" alt="B1 English" />
+</p>
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=google&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)   
-![B1 English](https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:seyyyma08@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="seyyyma08@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%C5%9Feyma-ta%C5%9F-642600272/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="şeyma-taş" height="30" width="40" /></a>
+</p>
 
+<!-- GitHub stats -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seymatas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="seymatas" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seymatas&show_icons=true&locale=en&theme=tokyonight" alt="seymatas" /></p>
