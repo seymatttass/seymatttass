@@ -5,9 +5,7 @@
 
 <h3 align="justify">I am a 4th-year Computer Engineering student at Selçuk University. I am interested in EF Core, C# backend development, and microservices. I also have experience in deep learning, machine learning, image processing, database programming, and cloud systems.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-
-
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/female-developer-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--html-logo-coder-web-software-development-coding-pack-design-icons-8075896.mp4">
 
 <h3 align="justify">I am currently working on high-accuracy lung dysfunctional zone detection and am open to collaboration on open source projects.</h3>
 
