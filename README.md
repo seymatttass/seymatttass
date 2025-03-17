@@ -5,7 +5,7 @@
 
 <h3 align="justify">I am a 4th-year Computer Engineering student at Selçuk University. I am interested in EF Core, C# backend development, and microservices. I also have experience in deep learning, machine learning, image processing, database programming, and cloud systems.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <h3 align="justify">I am currently working on high-accuracy lung dysfunctional zone detection and am open to collaboration on open source projects.</h3>
 
