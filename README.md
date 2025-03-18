@@ -15,9 +15,7 @@
   <ul>
     <li>📍 I live in Istanbul</li>
     <li>📧 You can reach me at <a href="mailto:seyyyma08@gmail.com">seyyyma08@gmail.com</a></li>
-    <li>🔗 <a href="https://www.linkedin.com/in/%C5%9Feyma-ta%C5%9F-642600272/">LinkedIn Profile</a></li>
     <li>💼 Working on high-accuracy lung dysfunctional zone detection</li>
-    <li>🤝 Open to collaboration on open source projects</li>
   </ul>
 </p>
 <br>
