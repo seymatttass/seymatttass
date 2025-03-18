@@ -54,7 +54,4 @@
 <a href="https://www.linkedin.com/in/%C5%9Feyma-ta%C5%9F-642600272/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="şeyma-taş" height="30" width="40" /></a>
 </p>
 
-<!-- GitHub stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seymatas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="seymatas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seymatas&show_icons=true&locale=en&theme=tokyonight" alt="seymatas" /></p>
