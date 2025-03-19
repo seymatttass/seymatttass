@@ -23,7 +23,7 @@
 <h3 align="left">Skills and Technologies:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&theme=light&i=dotnet,cs,azure,py,mysql,postgres,oracle,docker,redis,rabbitmq,flutter" />
+    <img src="https://skillicons.dev/icons?&theme=light&i=dotnet,cs,azure,py,mysql,postgres,oracle,docker,redis,rabbitmq,flutter,firebase,github,git,postman,visualstudio,vscode" />
   </a>
 </p>
 
