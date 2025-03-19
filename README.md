@@ -30,19 +30,12 @@
 <p align="left">
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?logo=google&logoColor=white" alt="Machine Learning" />
 <img src="https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white" alt="Deep Learning" />
-<img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white" alt="Oracle" />
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white" alt="ASP.NET Core" />
 <img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=dotnet&logoColor=white" alt="Entity Framework" />
-<img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-<img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white" alt="B1 English" />
 </p>
 
