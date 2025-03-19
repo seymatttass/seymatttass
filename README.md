@@ -24,20 +24,10 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?&theme=light&i=dotnet,cs,azure,py,mysql,postgres,oracle,docker,redis,rabbitmq,flutter" />
+    <img src="https://skillicons.dev/icons?&theme=light&i=ml,dl,mssql,aspnet,ef,translate" />
   </a>
 </p>
 
-<p align="left">
-<img src="https://img.shields.io/badge/-Machine%20Learning-102230?logo=google&logoColor=white" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white" alt="Deep Learning" />
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=dotnet&logoColor=white" alt="Entity Framework" />
-<img src="https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white" alt="B1 English" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
