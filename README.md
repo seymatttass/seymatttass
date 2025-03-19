@@ -33,7 +33,6 @@
 <img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=dotnet&logoColor=white" alt="Entity Framework" />
 <img src="https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white" alt="B1 English" />
 </p>
 
