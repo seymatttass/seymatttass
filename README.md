@@ -4,8 +4,9 @@
 </h3>
 
 <h3 align="justify">
-I graduated from Selçuk University, Department of Computer Engineering. I specialized in backend development and developed microservice-based projects in accordance with n-tier architecture principles using C# and ASP.NET Core technologies. In my e-commerce platform project, I applied RESTful API standards for inter-service communication and managed distribution processes through Docker containers. I integrated Ocelot API Gateway for logging and authentication mechanisms, and used Elasticsearch for log management. I effectively utilized RabbitMQ, PostgreSQL, MongoDB, and Redis for messaging and data management. Additionally, I implemented software design patterns such as Saga and Event-Driven Architecture. I also conducted research in the fields of artificial intelligence and machine learning and presented my work at an international conference.
-</h3>
+I graduated from Selçuk University, Department of Computer Engineering. I specialized in backend development and developed microservice-based projects in accordance with n-tier architecture principles using <u>C#</u> and <u>ASP.NET Core</u> technologies. In my e-commerce platform project, I applied <u>RESTful API</u> standards for inter-service communication and managed distribution processes through <u>Docker</u> containers. I integrated <u>Ocelot API Gateway</u> for logging and authentication mechanisms, and used <u>Elasticsearch</u> for log management. I effectively utilized <u>RabbitMQ</u>, <u>PostgreSQL</u>, <u>MongoDB</u>, and <u>Redis</u> for messaging and data management. Additionally, I implemented software design patterns such as <u>Saga</u> and <u>Event-Driven Architecture</u>. I also conducted research in the fields of <u>artificial intelligence</u> and <u>machine learning</u> and presented my work at an international conference.
+</h
+
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
