@@ -3,13 +3,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=336791&random=false&width=435&lines=Backend+Developer;Computer+Engineering+Student" alt="Typing SVG" /></a>
 </h3>
 
-<h3 align="justify">I am a 4th-year Computer Engineering student at Selçuk University. I am interested in EF Core, C# backend development, and microservices. I also have experience in deep learning, machine learning, image processing, database programming, and cloud systems.</h3>
+<h3 align="justify">
+I graduated from Selçuk University, Department of Computer Engineering. I specialized in backend development and developed microservice-based projects in accordance with n-tier architecture principles using C# and ASP.NET Core technologies. In my e-commerce platform project, I applied RESTful API standards for inter-service communication and managed distribution processes through Docker containers. I integrated Ocelot API Gateway for logging and authentication mechanisms, and used Elasticsearch for log management. I effectively utilized RabbitMQ, PostgreSQL, MongoDB, and Redis for messaging and data management. Additionally, I implemented software design patterns such as Saga and Event-Driven Architecture. I also conducted research in the fields of artificial intelligence and machine learning and presented my work at an international conference.
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-
-
-<h3 align="justify">I am currently working on high-accuracy lung dysfunctional zone detection and am open to collaboration on open source projects.</h3>
 
 <p align="left">
   <ul>
