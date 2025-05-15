@@ -16,7 +16,6 @@ I graduated from Selçuk University, Department of Computer Engineering. I speci
     <li>📍 I live in Istanbul</li>
     <li>📧 You can reach me at <a href="mailto:seyyyma08@gmail.com">seyyyma08@gmail.com</a></li>
     <li>📧 You can reach me at <a href="mailto:seyymaa.tass@gmail.com">seyymaa.tass@gmail.com</a></li>
-    <li>💼 Working on high-accuracy lung dysfunctional zone detection</li>
   </ul>
 </p>
 <br>
