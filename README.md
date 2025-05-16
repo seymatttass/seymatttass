@@ -32,7 +32,6 @@ I graduated from Selçuk University, Department of Computer Engineering. I speci
 <img src="https://img.shields.io/badge/-Deep%20Learning-00599C?logo=numpy&logoColor=white" alt="Deep Learning" />
 <img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
 <img src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/-B1%20English-0078D4?logo=translate&logoColor=white" alt="B1 English" />
 </p>
 
 
