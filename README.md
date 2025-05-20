@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Şeyma Taş</h1>
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=336791&random=false&width=435&lines=Backend+Developer;Computer+Engineering+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=336791&random=false&width=435&lines=Backend+Developer;Computer+Engineering" alt="Typing SVG" /></a>
 </h3>
 
 <h3 align="justify">
